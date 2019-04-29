@@ -1,0 +1,45 @@
+.panels {
+  width: 85%;
+  border: 1.2px solid pink;
+  border-radius: 4px;
+}
+
+.panel-heading {
+  background: pink;
+  padding: 6px;
+}
+
+.panel-body {
+  padding: 10px;
+}
+
+.red {
+  background-color: red;
+  width: 20px;
+  height: 20px;
+  border: none;
+  margin-right: 5px;
+}
+
+.green {
+  background-color: green;
+  width: 20px;
+  height: 20px;
+  border: none;
+  margin-right: 5px;
+}
+
+.gray {
+  background-color: gray;
+  width: 20px;
+  height: 20px;
+  border: none;
+  margin-right: 5px;
+}
+
+.pink {
+  background-color: pink;
+  width: 20px;
+  height: 20px;
+  border: none;
+}

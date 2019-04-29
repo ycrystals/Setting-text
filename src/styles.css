@@ -1,0 +1,8 @@
+.change {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.btns {
+  float: right;
+}
